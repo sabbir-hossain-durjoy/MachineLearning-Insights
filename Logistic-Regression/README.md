@@ -1,37 +1,36 @@
-# 📘 Student Marks Prediction – Linear Regression  
+# 🔐 Student Performance Classification – Logistic Regression  
 
-This project demonstrates the application of **Linear Regression** to model and predict students’ marks based on their study hours. The notebook covers data preprocessing, model training, evaluation, and visualizations to interpret results.  
+This project demonstrates the use of **Logistic Regression** to classify student outcomes (e.g., pass/fail) based on their study hours or related features. Logistic Regression is a fundamental classification algorithm that estimates probabilities and maps them to categorical outcomes.  
 
 ---
 
 ## ✨ Features  
-- 📂 **Data Loading** – Reads dataset directly from Google Drive in Colab.  
-- 🧹 **Data Cleaning** – Handles missing values by imputing the mean of study hours.  
-- 🤖 **Model Training** – Trains a **Linear Regression** model to predict marks.  
+- 📂 **Data Loading** – Imports dataset from Google Drive in Colab.  
+- 🧹 **Data Cleaning** – Handles missing values and ensures data consistency.  
+- 🤖 **Model Training** – Implements **Logistic Regression** for binary classification.  
 - 📊 **Evaluation Metrics** –  
-  - MAE (Mean Absolute Error)  
-  - MSE (Mean Squared Error)  
-  - R² Score (Goodness of fit)  
+  - Accuracy  
+  - Precision, Recall, F1-Score  
+  - Confusion Matrix  
 - 🎨 **Visualizations** –  
-  - Missing value plots (bar & pie)  
-  - Scatter plot with regression line  
-  - Trend plots for predicted study hours  
-- 🔮 **Prediction Interface** – Estimate marks for custom study hours (e.g., 7.5, 8, 9).  
+  - Distribution of classes  
+  - Decision boundary plots  
+  - Confusion matrix heatmap  
+- 🔮 **Prediction Interface** – Estimate class probability (e.g., likelihood of passing given study hours).  
 
 ---
 
 ## 🚀 Getting Started  
-Run the notebook in **Google Colab** to explore the full workflow, view the **code**, and interact with the **visual outputs** step by step.  
+Run the project in **Google Colab** to access the full workflow, including code, model training, and result visualizations.  
 
 🔗 [**Open in Google Colab**](https://colab.research.google.com/drive/1OcX_txo-WMxh3q8Z2XCjVRHom-grlMTm?usp=sharing)  
 
 ---
 
 ## 📈 Results  
-- ✅ The model successfully learns the linear relationship between study hours and marks.  
-- ✅ Evaluation metrics demonstrate prediction accuracy.  
-- ✅ Predictions for custom study hours are clearly visualized.  
+- ✅ The model outputs **probabilities** that are mapped into binary classes.  
+- ✅ Metrics like **accuracy, precision, recall, and F1-score** evaluate classification quality.  
+- ✅ Confusion matrix and plots make the model performance interpretable.  
 
 ---
-
 
