@@ -32,7 +32,6 @@ Open the notebook in **Google Colab** to view code, train models, and visualize 
 Each model was evaluated using **Accuracy Score** on the held-out test set.  
 
 ### 🔎 Accuracy Comparison
-![Comparison of Model Accuracies](11f1688d-7140-4da4-819a-93ede9ee0ad3.png)
 
 - **Random Forest** achieved the highest accuracy among all tested models.  
 - **Ensemble methods (XGBoost, LightGBM, CatBoost)** performed consistently well.  
