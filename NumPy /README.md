@@ -42,9 +42,11 @@ A complete, end-to-end notebook that demonstrates the **core functionalities of 
 
 ## 🚀 Getting Started  
 
-1. Download the notebook or open in Google Colab.  
-2. Run each cell step by step to explore **NumPy operations interactively**.  
-3. Modify values to practice and observe changes in outputs.  
+Open and run the notebook directly in **Google Colab**.  
+You can interactively experiment with **NumPy features** step by step.  
+
+🔗 **Colab Notebook**: [NumPy](https://colab.research.google.com/drive/1P7jdl5F_mKQHjjyq7cL-SFB5nXMZ1QI7?usp=sharing)  
+
 
 ---
 
