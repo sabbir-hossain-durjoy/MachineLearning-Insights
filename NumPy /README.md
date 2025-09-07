@@ -2,7 +2,7 @@
 
 A complete, end-to-end notebook that demonstrates the **core functionalities of NumPy** for numerical computing in Python. It covers **array creation, reshaping, broadcasting, slicing, indexing, random number generation, mathematical operations, and boolean masking**, with hands-on examples.  
 
-📂 **Notebook Link**: [Open File](https://drive.google.com/file/d/16kmpKq_oiqhDgDR9dD8V2PpzeRjLRtvc/view?usp=sharing)  
+
 
 ---
 
